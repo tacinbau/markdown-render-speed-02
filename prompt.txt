@@ -1,1 +1,2 @@
 garap dua duanya
+Emphasis-fix continuation: from-scratch renderer, emphasis engine fixed.
